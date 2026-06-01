@@ -9,5 +9,5 @@ if you want to support me, feel free to donate.
 https://ko-fi.com/volven
 
 ## Credits
-Geneva is a fork of Inter. "Inter" is a trademark of Rasmus Andersson (DBA: RSMS) 
+Mutern is a fork of Inter. "Inter" is a trademark of Rasmus Andersson (DBA: RSMS) 
 and is used as the basis for this project under the SIL Open Font License.
