@@ -1,8 +1,8 @@
 # GenevaVF
 A variable grotesque with weight, width, and optical size axes. 
 You can try out the font here: https://geneva.volven.me/
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/f2a11025-9ab3-4b49-b3b7-3c8a5e0c7c40" />
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2cf77284-2aee-420d-80a4-a37c6d0e9e42" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c6b4a963-630c-4af7-bac4-2c77a9614b87" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/96913187-0f69-4014-890b-f97654cea31e" />
 
 ## Extra
 if you want to support me, feel free to donate.
