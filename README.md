@@ -10,7 +10,7 @@ You can try out the font here: https://geneva.volven.me/
 3. More Axes
 4. More weights ( up to 1000 )
 5. Improve the playground website
- 
+6. ??? Italics ???
 
 ## Extra
 if you want to support me, feel free to donate.
