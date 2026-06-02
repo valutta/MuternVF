@@ -12,7 +12,7 @@ You can try out the font here: https://geneva.volven.me/
 5. Improve the playground website
 6. ??? Italics ???
 
-## Extra
+## Support
 if you want to support me, feel free to donate.
 https://ko-fi.com/volven
 
