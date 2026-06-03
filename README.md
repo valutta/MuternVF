@@ -6,7 +6,7 @@ You can try out the font here: https://geneva.volven.me/
 
 ## To-Do List
 1. The ability to switch the height of the numbers like in iOS 26
-2. Lowercase tail "a" ( WIP )
+2. Lowercase tail "a" ( Done )
 3. More Axes
 4. More weights ( up to 1000 )
 5. Improve the playground website
