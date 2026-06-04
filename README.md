@@ -12,7 +12,7 @@ You can try out the font here: https://mutern.volven.me/
 5. Improve the playground website
 6. ??? Italics ???
 
-# Notes
+## Notes
 I have noticed quite a lot of kering issues with cyrillic, fixes are coming soon
 
 ## Support
